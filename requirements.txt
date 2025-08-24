@@ -1,0 +1,5 @@
+flask
+whoosh
+newspaper3k
+beautifulsoup4
+requests
